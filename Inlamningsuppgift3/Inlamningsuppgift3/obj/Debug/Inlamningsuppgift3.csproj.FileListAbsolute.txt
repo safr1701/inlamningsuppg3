@@ -1,0 +1,10 @@
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\bin\Debug\Inlamningsuppgift3.exe.config
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\bin\Debug\Inlamningsuppgift3.exe
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\bin\Debug\Inlamningsuppgift3.pdb
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.Form1.resources
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.Properties.Resources.resources
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.csproj.GenerateResource.Cache
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.exe
+C:\Users\Sara\Documents\Visual Studio 2017\Projects\Inlamningsuppgift3\Inlamningsuppgift3\obj\Debug\Inlamningsuppgift3.pdb
